@@ -17,7 +17,8 @@ This directory contains 30 progressively challenging SQL problems, organized fro
 ## Problem Structure
 
 Each problem folder contains:
-- **README.md** - Complete problem guide with:
+
+- **{problem-name}.md** - Complete problem guide with:
   - Learning objectives
   - Concept explanations
   - Problem statement
