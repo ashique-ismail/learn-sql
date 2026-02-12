@@ -8,10 +8,10 @@
 
 ## 📊 Overview
 
-- **Total Sections:** 17 (00-16)
-- **Total Practice Problems:** 125
-- **Roadmap Coverage:** 100% ✅
-- **Estimated Time:** 60-100 hours
+- **Total Sections:** 18 (00-17)
+- **Total Practice Problems:** 132
+- **Roadmap Coverage:** 100% + Time Series ✅
+- **Estimated Time:** 65-110 hours
 
 ---
 
@@ -35,6 +35,7 @@
 14 - Stored Procedures/Functions(8 problems)
 15 - Performance Optimization   (7 problems)
 16 - Advanced SQL Concepts      (8 problems)
+17 - Time Series Analysis       (7 problems)
 ```
 
 ---
@@ -42,7 +43,7 @@
 ## 🎯 Learning Paths
 
 ### Path 1: Complete Mastery (16-20 weeks)
-**All 125 problems + theory**
+**All 132 problems + theory**
 
 Work through all sections sequentially for comprehensive SQL mastery.
 
@@ -113,6 +114,7 @@ Track your progress:
 - [ ] 14-stored-procedures-functions (8/8)
 - [ ] 15-performance-optimization (7/7)
 - [ ] 16-advanced-sql-concepts (8/8)
+- [ ] 17-time-series-analysis (7/7)
 
 ---
 
@@ -120,9 +122,9 @@ Track your progress:
 
 **Two-track system:**
 
-1. **learning-guide/** (This folder)
+1. **learning-guide-roadmapsh/** (This folder)
    - Structured learning by topic
-   - 125 focused problems
+   - 132 focused problems
    - Progressive difficulty
 
 2. **../problems/** (Main folder)
@@ -153,7 +155,7 @@ Track your progress:
 - Subqueries and CTEs
 - **Time:** 25-35 hours
 
-### 🔴 Advanced (Sections 10-16)
+### 🔴 Advanced (Sections 10-17)
 **Professional skills**
 - Window functions and advanced features
 - Indexes and performance
@@ -162,7 +164,8 @@ Track your progress:
 - Stored procedures and functions
 - Performance optimization
 - Advanced PostgreSQL features
-- **Time:** 30-40 hours
+- Time series analysis
+- **Time:** 35-45 hours
 
 ---
 
@@ -199,6 +202,7 @@ Track your progress:
 - ✅ Full-Text Search
 - ✅ LATERAL Joins
 - ✅ Table Partitioning
+- ✅ Time Series Analysis
 
 ---
 
@@ -247,6 +251,6 @@ Each problem is marked with difficulty:
 ---
 
 **Last Updated:** 2026-02-12
-**Sections:** 17
-**Problems:** 125
+**Sections:** 18
+**Problems:** 132
 **Status:** ✅ Complete

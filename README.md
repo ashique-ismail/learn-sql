@@ -8,9 +8,9 @@
 
 ## 📊 Quick Overview
 
-- **Learning Guide:** 17 sections, 125 focused problems
+- **Learning Guide:** 18 sections, 132 focused problems
 - **Comprehensive Problems:** 30 real-world challenges
-- **Total Problems:** 155
+- **Total Problems:** 162
 - **Roadmap Coverage:** 100% ✅
 - **Estimated Time:** 80-120 hours
 
@@ -18,11 +18,11 @@
 
 ## 🎯 Two-Track Learning System
 
-### Track 1: [Learning Guide](learning-guide/) 📚
+### Track 1: [Learning Guide Roadmap.sh](learning-guide-roadmapsh-roadmapsh/) 📚
 **Structured learning by topic**
 
-- 17 sections (00-16)
-- 125 focused problems
+- 18 sections (00-17)
+- 132 focused problems
 - 7-11 problems per topic
 - Progressive difficulty
 - Covers 100% of roadmap.sh
@@ -72,13 +72,13 @@ psql sql_learning -c "SELECT COUNT(*) FROM employees;"
 
 **Beginner Path:**
 ```bash
-cd learning-guide/00-cli-and-setup
+cd learning-guide-roadmapsh/00-cli-and-setup
 # Master PostgreSQL CLI first
 ```
 
 **Intermediate Path:**
 ```bash
-cd learning-guide/08-join-queries
+cd learning-guide-roadmapsh/08-join-queries
 # Jump to advanced topics
 ```
 
@@ -94,7 +94,7 @@ cd problems/
 
 ```
 SQL/
-├── learning-guide/              # Structured learning (125 problems)
+├── learning-guide-roadmapsh/              # Structured learning (132 problems)
 │   ├── 00-cli-and-setup/
 │   ├── 01-learn-the-basics/    (7 problems)
 │   ├── 02-basic-sql-syntax/    (7 problems)
@@ -111,7 +111,8 @@ SQL/
 │   ├── 13-data-integrity-security/ (7 problems)
 │   ├── 14-stored-procedures-functions/ (8 problems)
 │   ├── 15-performance-optimization/ (7 problems)
-│   └── 16-advanced-sql-concepts/ (8 problems)
+│   ├── 16-advanced-sql-concepts/ (8 problems)
+│   └── 17-time-series-analysis/ (7 problems)
 │
 └── problems/                    # Comprehensive challenges (30 problems)
     ├── 01-basic-selection/ to 30-executive-dashboard/
@@ -123,9 +124,9 @@ SQL/
 ## 🎓 Learning Paths
 
 ### Path 1: Complete Mastery (16-20 weeks)
-**All 155 problems + theory**
+**All 162 problems + theory**
 
-- Weeks 1-12: Complete learning-guide (all 17 sections)
+- Weeks 1-12: Complete learning-guide-roadmapsh (all 18 sections)
 - Weeks 13-16: Complete problems (all 30 challenges)
 - Weeks 17-20: Build portfolio projects
 
@@ -136,9 +137,9 @@ SQL/
 ### Path 2: Job Ready (10-12 weeks)
 **Practical skills focus**
 
-- Weeks 1-2: learning-guide sections 00-04 (basics)
-- Weeks 3-5: learning-guide sections 05-09 (intermediate)
-- Weeks 6-8: learning-guide sections 10-12 (advanced)
+- Weeks 1-2: learning-guide-roadmapsh sections 00-04 (basics)
+- Weeks 3-5: learning-guide-roadmapsh sections 05-09 (intermediate)
+- Weeks 6-8: learning-guide-roadmapsh sections 10-12 (advanced)
 - Weeks 9-10: problems 1-20 (practice)
 - Weeks 11-12: Interview prep + portfolio
 
@@ -149,8 +150,8 @@ SQL/
 ### Path 3: Interview Sprint (4-6 weeks)
 **High-intensity preparation**
 
-- Week 1: learning-guide sections 08-09 (JOINs, subqueries)
-- Week 2: learning-guide section 10 (window functions)
+- Week 1: learning-guide-roadmapsh sections 08-09 (JOINs, subqueries)
+- Week 2: learning-guide-roadmapsh section 10 (window functions)
 - Week 3: problems 8-16 (intermediate challenges)
 - Week 4: problems 17-26 (advanced challenges)
 - Weeks 5-6: LeetCode SQL + mock interviews
@@ -163,9 +164,9 @@ SQL/
 **Target specific gaps**
 
 Choose sections based on your needs:
-- Need JOINs? → learning-guide/08-join-queries + problems 6, 7, 19
-- Need window functions? → learning-guide/10 + problems 10, 11, 22, 24, 26
-- Need optimization? → learning-guide/11, 15 + problems 17, 23
+- Need JOINs? → learning-guide-roadmapsh/08-join-queries + problems 6, 7, 19
+- Need window functions? → learning-guide-roadmapsh/10 + problems 10, 11, 22, 24, 26
+- Need optimization? → learning-guide-roadmapsh/11, 15 + problems 17, 23
 
 **Best for:** Filling specific knowledge gaps
 
@@ -218,7 +219,7 @@ Choose sections based on your needs:
 ## 🏆 What Makes This Complete
 
 ### 1. Dual-Track System
-- **Focused Practice** (learning-guide): Master one concept at a time
+- **Focused Practice** (learning-guide-roadmapsh): Master one concept at a time
 - **Real-World Application** (problems): Apply multiple concepts together
 
 ### 2. 100% Roadmap Coverage
@@ -246,19 +247,19 @@ Choose sections based on your needs:
 ## 💡 How to Use This Curriculum
 
 ### For Complete Beginners
-1. Start: learning-guide/00-cli-and-setup
-2. Continue sequentially through learning-guide
+1. Start: learning-guide-roadmapsh/00-cli-and-setup
+2. Continue sequentially through learning-guide-roadmapsh
 3. After each section, try related problems from problems/
 4. Build projects as you learn
 
 ### For Those with Basic SQL
-1. Start: learning-guide/05-aggregate-queries
+1. Start: learning-guide-roadmapsh/05-aggregate-queries
 2. Work through intermediate sections (05-09)
 3. Practice with problems/08-16
 4. Focus on advanced sections (10-16)
 
 ### For Interview Preparation
-1. Review: learning-guide sections 08, 09, 10
+1. Review: learning-guide-roadmapsh sections 08, 09, 10
 2. Practice: problems/08-26
 3. Focus: Window functions, JOINs, Subqueries
 4. Time yourself on problems
@@ -266,7 +267,7 @@ Choose sections based on your needs:
 
 ### For On-the-Job Learning
 1. Identify your gaps (JOINs? Performance? Security?)
-2. Go to specific learning-guide sections
+2. Go to specific learning-guide-roadmapsh sections
 3. Practice with related problems
 4. Apply to your real work scenarios
 
@@ -292,6 +293,7 @@ Choose sections based on your needs:
 - [ ] 14-stored-procedures-functions (8/8)
 - [ ] 15-performance-optimization (7/7)
 - [ ] 16-advanced-sql-concepts (8/8)
+- [ ] 17-time-series-analysis (7/7)
 
 ### Problems Progress
 - [ ] Phase 1: Foundations (1-7)
@@ -304,21 +306,21 @@ Choose sections based on your needs:
 ## 🎯 Quick Links
 
 **Start Here:**
-- [Learning Guide](learning-guide/) - Structured learning
+- [Learning Guide](learning-guide-roadmapsh/) - Structured learning
 - [Problems](problems/) - Comprehensive challenges
-- [CLI Setup](learning-guide/00-cli-and-setup/) - First step
+- [CLI Setup](learning-guide-roadmapsh/00-cli-and-setup/) - First step
 
 **Most Important Topics:**
-- [JOINs](learning-guide/08-join-queries/)
-- [Subqueries](learning-guide/09-subqueries/)
-- [Window Functions](learning-guide/10-advanced-functions/)
-- [Indexes](learning-guide/11-indexes/)
-- [Performance](learning-guide/15-performance-optimization/)
+- [JOINs](learning-guide-roadmapsh/08-join-queries/)
+- [Subqueries](learning-guide-roadmapsh/09-subqueries/)
+- [Window Functions](learning-guide-roadmapsh/10-advanced-functions/)
+- [Indexes](learning-guide-roadmapsh/11-indexes/)
+- [Performance](learning-guide-roadmapsh/15-performance-optimization/)
 
 **Interview Focus:**
 - [Problems 8-16](problems/) - Intermediate challenges
 - [Problems 17-26](problems/) - Advanced challenges
-- [Window Functions Guide](learning-guide/10-advanced-functions/)
+- [Window Functions Guide](learning-guide-roadmapsh/10-advanced-functions/)
 
 ---
 
@@ -384,12 +386,12 @@ Found an issue or want to improve something?
 
 ---
 
-**Ready to start?** → [Begin with CLI Setup](learning-guide/00-cli-and-setup/)
+**Ready to start?** → [Begin with CLI Setup](learning-guide-roadmapsh/00-cli-and-setup/)
 
 ---
 
 **Last Updated:** 2026-02-12
-**Total Problems:** 155 (125 + 30)
-**Sections:** 17
-**Coverage:** 100% Roadmap.sh ✅
+**Total Problems:** 162 (132 + 30)
+**Sections:** 18
+**Coverage:** 100% Roadmap.sh + Time Series ✅
 **Status:** Complete and Ready
