@@ -100,8 +100,8 @@ Track your progress:
 - [ ] 00-cli-and-setup
 - [ ] 01-learn-the-basics (7/7)
 - [ ] 02-basic-sql-syntax (7/7)
-- [ ] 03-ddl (7/7)
-- [ ] 04-dml (10/10)
+- [ ] 03-data-definition-language (7/7)
+- [ ] 04-data-manipulation-language (10/10)
 - [ ] 05-aggregate-queries (8/8)
 - [ ] 06-data-constraints (7/7)
 - [ ] 07-views (7/7)
@@ -122,7 +122,7 @@ Track your progress:
 
 **Two-track system:**
 
-1. **learning-guide-roadmapsh/** (This folder)
+1. **learning-guide/** (This folder)
    - Structured learning by topic
    - 132 focused problems
    - Progressive difficulty
